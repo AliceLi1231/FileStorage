@@ -1,0 +1,15 @@
+{
+    "firstname":"Alice",
+    "gender" : false,
+    "height" : 165,
+    "email" : "wxes9040828@gamil.com",
+    "city" : {
+        "通訊地址" : "台中",
+        "戶籍地址" : "台中"
+    },
+    "phone" : {
+        "市話" : "04-00000000",
+        "行動電話" : "0900-000000"
+    },
+    "cars" : ["mini", "Audi"]
+}
