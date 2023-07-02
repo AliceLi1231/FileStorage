@@ -29,9 +29,6 @@
     { "id": "D004", "size": "45mm", "color": "午夜色", "price": 18400, "network": "mobile-network",  "picture": "http://127.0.0.1:5500/Apple/applewatch/midnight.jpg" },
     { "id": "D005", "size": "45mm", "color": "Black Unity", "price": 18400, "network": "mobile-network",  "picture": "http://127.0.0.1:5500/Apple/applewatch/blackunity.jpg" },
     { "id": "D006", "size": "45mm", "color": "驕傲特別版", "price": 18400, "network": "mobile-network",  "picture": "http://127.0.0.1:5500/Apple/applewatch/special.jpg" },
-    { "id": "D007", "size": "45mm", "color": "紅色", "price": 18400, "network": "mobile-network",  "picture": "http://127.0.0.1:5500/Apple/applewatch/red.jpg" },
-   
-    
-
+    { "id": "D007", "size": "45mm", "color": "紅色", "price": 18400, "network": "mobile-network",  "picture": "http://127.0.0.1:5500/Apple/applewatch/red.jpg" }  
    
 ]
